@@ -24,7 +24,8 @@ Ping between VLANs was successful
 All devices can communicate via router
 
 
-![Uploading Ekran görüntüsü 2026-03-26 141144.png…]()
+<img width="865" height="341" alt="image" src="https://github.com/user-attachments/assets/b4f5bde5-9516-414a-87b9-9d32d38f466f" />
+
 
 
 
